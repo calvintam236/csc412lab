@@ -1,1 +1,2 @@
 this is bar.txt
+Second commit
